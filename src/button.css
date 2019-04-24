@@ -1,0 +1,15 @@
+#library-btn {
+	background-color: #FF4000;
+	width: 150px;
+	height: 50px;
+	border: 2px solid #FF4000;
+	border-radius: 15px;
+	color: #FFF;
+	font-size: 18px;
+	font-family: system-ui;
+}
+
+#library-btn:hover {
+	background-color: #FFF;
+	color: #FF4000;
+}

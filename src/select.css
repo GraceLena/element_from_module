@@ -1,0 +1,11 @@
+.libSlt {
+	margin: 20px;
+	padding: 5px;
+	border: none;
+	border-bottom: 1px solid #2a9134;
+	color: #2a9134;
+	font-size: 14px;
+	min-width: 150px;
+	background-color: #def9e1;
+	outline: none;
+}
